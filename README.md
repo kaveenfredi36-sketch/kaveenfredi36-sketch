@@ -9,7 +9,7 @@ I am a **Data Analyst** and **Web Developer** from Sri Lanka. I am currently a s
 - 🌱 **I'm currently learning** Advanced Statistical Analysis, Next.js, and Tailwind CSS.
 - 💬 **Ask me about** Data Analytics, SQL, Python, and Web Development.
 - 📫 **How to reach me:** [kaveenfredi36@gmail.com](mailto:kaveenfredi36@gmail.com)
-- 📝 **Check out my portfolio:** [https://kdjdev1.github.io/portfolio_kaveen/](https://kdjdev1.github.io/portfolio_kaveen/)
+- 📝 **Check out my portfolio:** [https://kdjdev1.github.io/portfolio_kaveen/](https://www.kaveenfernando.me/#)
 - ⚡ **Fun fact:** I can solve complex Real Analysis mathematical proofs but still get excited over a clean "Green Streak" on GitHub!
 
 ---
